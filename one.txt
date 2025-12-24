@@ -3,3 +3,5 @@ ONE
 hello world
 Remote change
 second Remote change
+new feature
+trying out stashing
